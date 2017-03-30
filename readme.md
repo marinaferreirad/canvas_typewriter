@@ -11,14 +11,11 @@
 ## Project's description and information
 Design full canvas of a typewriter
 
-
 ## Installation and how to use
 /
 
-
 ## Remarks
 /
-
 
 ## Features and how to use
 - Vizualisation of the active keyboard
