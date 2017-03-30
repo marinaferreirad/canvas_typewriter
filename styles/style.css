@@ -1,0 +1,17 @@
+body {
+	background: #d4bca0;
+}
+
+#paper {
+	position: absolute;
+	top: 200px;
+	left: 270px;
+	width: 370px;
+	max-width: 370px;
+	height: 130px;
+	max-height: 130px;
+	border-color: rgba(240, 248, 255, 0);
+	background-color: rgba(240, 248, 255, 0);
+	font-family: American Typewriter, Helvetica, Arial;
+	font-size: 20px;
+}
