@@ -13,9 +13,7 @@ Design full canvas of a typewriter
 
 
 ## Installation and how to use
-This project is using gulp. All the packages are include into the package.json
-
-1. Command to launch gulp --> gulp watch
+/
 
 
 ## Remarks
